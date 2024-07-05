@@ -1,1 +1,1 @@
-# belief_propagation_tutorial
+a simple example of belief propagation algorithm for binary segmentation problem
